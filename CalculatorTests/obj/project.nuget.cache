@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "FulnhuI1GSs0GCDHqAcf8MK4XEDAr42VqJaaCju2XCjlAXfDYfWpwPKHslzaZyfzDrtb9VC1pFfYCdU0pRh9cw==",
+  "success": true,
+  "projectFilePath": "/home/oleksandr/Documents/SE2/CalculatorProject/CalculatorTests/CalculatorTests.csproj",
+  "expectedPackageFiles": [
+    "/home/oleksandr/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/microsoft.applicationinsights/2.22.0/microsoft.applicationinsights.2.22.0.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/microsoft.codecoverage/17.13.0/microsoft.codecoverage.17.13.0.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/microsoft.net.test.sdk/17.13.0/microsoft.net.test.sdk.17.13.0.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/microsoft.testing.extensions.telemetry/1.5.3/microsoft.testing.extensions.telemetry.1.5.3.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/microsoft.testing.extensions.trxreport.abstractions/1.5.3/microsoft.testing.extensions.trxreport.abstractions.1.5.3.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/microsoft.testing.extensions.vstestbridge/1.5.3/microsoft.testing.extensions.vstestbridge.1.5.3.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/microsoft.testing.platform/1.5.3/microsoft.testing.platform.1.5.3.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/microsoft.testing.platform.msbuild/1.5.3/microsoft.testing.platform.msbuild.1.5.3.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/microsoft.testplatform.objectmodel/17.13.0/microsoft.testplatform.objectmodel.17.13.0.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/microsoft.testplatform.testhost/17.13.0/microsoft.testplatform.testhost.17.13.0.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/nunit/4.3.2/nunit.4.3.2.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/nunit3testadapter/5.0.0/nunit3testadapter.5.0.0.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/system.diagnostics.diagnosticsource/5.0.0/system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/xunit/2.9.3/xunit.2.9.3.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/xunit.abstractions/2.0.3/xunit.abstractions.2.0.3.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/xunit.analyzers/1.18.0/xunit.analyzers.1.18.0.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/xunit.assert/2.9.3/xunit.assert.2.9.3.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/xunit.core/2.9.3/xunit.core.2.9.3.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/xunit.extensibility.core/2.9.3/xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/xunit.extensibility.execution/2.9.3/xunit.extensibility.execution.2.9.3.nupkg.sha512",
+    "/home/oleksandr/.nuget/packages/xunit.runner.visualstudio/3.0.2/xunit.runner.visualstudio.3.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

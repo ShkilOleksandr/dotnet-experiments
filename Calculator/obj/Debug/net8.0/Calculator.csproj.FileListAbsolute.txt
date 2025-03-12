@@ -1,0 +1,11 @@
+/home/oleksandr/Documents/SE2/CalculatorProject/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/oleksandr/Documents/SE2/CalculatorProject/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/oleksandr/Documents/SE2/CalculatorProject/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/oleksandr/Documents/SE2/CalculatorProject/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/oleksandr/Documents/SE2/CalculatorProject/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/oleksandr/Documents/SE2/CalculatorProject/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/oleksandr/Documents/SE2/CalculatorProject/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/oleksandr/Documents/SE2/CalculatorProject/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/oleksandr/Documents/SE2/CalculatorProject/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/oleksandr/Documents/SE2/CalculatorProject/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/oleksandr/Documents/SE2/CalculatorProject/Calculator/obj/Debug/net8.0/ref/Calculator.dll
